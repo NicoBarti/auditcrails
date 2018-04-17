@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  AuthId: MyString
+  age: 
+  sex: MyString
+
+two:
+  AuthId: MyString
+  age: 
+  sex: MyString
